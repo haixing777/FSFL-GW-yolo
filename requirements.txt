@@ -1,17 +1,28 @@
 # Ultralytics requirements
 # Usage: pip install -r requirements.txt
-
+#my  sets
+einops==0.8.0
+matplotlib==3.7.5
+numpy==1.24.4
+Pillow==10.4.0
+opencv-python==4.10.0
+scipy==1.10.1
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.65.2
+timm==0.9.8
+PyYAML==6.0.2
 # Base ----------------------------------------
-matplotlib>=3.2.2
-numpy>=1.18.5
-opencv-python>=4.6.0
-Pillow>=7.1.2
-PyYAML>=5.3.1
+matplotlib>=3.7.5
+numpy>=1.24.4
+opencv-python>=4.10.0
+Pillow>=10.4.0
+PyYAML>=6.0.2
 requests>=2.23.0
-scipy>=1.4.1
-torch>=1.7.0
-torchvision>=0.8.1
-tqdm>=4.64.0
+scipy>=1.10.1
+torch>=1.13.1
+torchvision>=0.14.1
+tqdm>=4.65.2
 
 # Logging -------------------------------------
 tensorboard>=2.4.1
