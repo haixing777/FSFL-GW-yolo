@@ -6,6 +6,8 @@ python train.py
 python val.py
 # test
 python  test.py
+# Another publicly available dataset
+https://github.com/CUMT-AIPR-Lab/CUMT-AIPR-Lab
 # The risk early warning system is realized by the detect section
 python detect.py
 # CODE：
